@@ -1,4 +1,4 @@
-# 📘 Course Materials: XXX
+# 📘 Course Materials: Introduction to Circular Economy
 
 This repository contains materials used in the course taught at the [IMC University of Applied Sciences Krems](https://www.imc.ac.at/). The materials are shared to support learning, collaboration, and adaptation by educators, students, practitioners, and of course: you 😉.
 
@@ -13,16 +13,16 @@ This repository contains materials used in the course taught at the [IMC Univers
 
 ## 📜 Metadata
 
-- **Title:** XXX
+- **Title:** Introduction to Circular Economy
 - **Author(s):** Kami Höferl
 - **Institution:** IMC University of Applied Sciences Krems  
-- **Semester:** XXX  
+- **Semester:** WS 24-25  
 - **Language:** English  
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-- **Version:** v1.0 (XXX)  
+- **Version:** v1.0 (Febraury 2025)  
 - **DOI:** XXX
-- **Keywords:** XXX
+- **Keywords:** circular economy, sustainability, resource management, waste reduction, systems thinking
 
 ---
 
