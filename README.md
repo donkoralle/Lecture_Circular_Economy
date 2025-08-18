@@ -21,7 +21,7 @@ This repository contains materials used in the course taught at the [IMC Univers
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 - **Version:** v1.0 (Febraury 2025)  
-- **DOI:** XXX
+- **DOI:** [10.5281/zenodo.16892812](https://doi.org/10.5281/zenodo.16892812)
 - **Keywords:** circular economy, sustainability, resource management, waste reduction, systems thinking
 
 ---
