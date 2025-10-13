@@ -1,26 +1,18 @@
 ---
-title: Circular Strategies Basics
-date: 2025-10-01
-summary: Short description shown on the overview page.
+title: Electronic Learning Sesseion 1: Managing Literature with Zotero
+author: Kami Hoferl
+date: 2025-10-12
 layout: page
 ---
 
-# Circular Strategies – Basics
+## Circular Strategies – Basics
 
-Dein Markdown-Inhalt...
+This unit consits of two parts:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oFWDEncIKHUSZPFN/0.jpg)](https://www.youtube.com/watch?v=oFWDEncIKHUSZPFN)
+1. Getting started with Zotero
+2. Becoming aquainted with searching and storing lieteratur in Zotero
 
-[Link to additional resources or references](https://youtu.be/JG7Uq_JFDzE?si=oFWDEncIKHUSZPFN)
-
----
-
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/oFWDEncIKHUSZPFN/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=oFWDEncIKHUSZPFN)
-
----
-
-# v2: per _includes
+## Getting Started with Zotero
 
 {% include youtube.html id="JG7Uq_JFDzE" %}  
+
