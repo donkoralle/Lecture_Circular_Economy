@@ -1,6 +1,6 @@
 /* Round all images in markdown content */
 img {
-  border-radius: 8px;      /* adjust the corner curve */
+  border-radius: 8px !important;      /* adjust the corner curve */
   overflow: hidden;
   display: block;           /* prevents inline spacing issues */
   max-width: 100%;          /* keeps images responsive */
