@@ -7,14 +7,3 @@ plugins:
 
 # Markdown-Engine
 markdown: kramdown
-
-# # Navigationslinks im Header (optional)
-# header_pages:
-#   - index.md
-#   - pages.md    # Übersicht der Collection (siehe Schritt 4)
-
-# # Deine Collection: _pages/
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:collection/:name/   # ergibt /pages/dateiname/
