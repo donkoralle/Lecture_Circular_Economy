@@ -1,5 +1,10 @@
 ---
-title: Über uns
+title: Circular Strategies Basics
+date: 2025-10-01
+summary: Short description shown on the overview page.
+layout: page
 ---
-# Über diese Seite
-Hier steht dein Markdown-Text.
+
+# Circular Strategies – Basics
+
+Dein Markdown-Inhalt...
