@@ -5,10 +5,10 @@ theme: jekyll-theme-minimal
 # Markdown-Engine
 markdown: kramdown
 
-# Navigationslinks im Header (optional)
-header_pages:
-  - index.md
-  - pages.md    # Übersicht der Collection (siehe Schritt 4)
+# # Navigationslinks im Header (optional)
+# header_pages:
+#   - index.md
+#   - pages.md    # Übersicht der Collection (siehe Schritt 4)
 
 # Deine Collection: _pages/
 collections:
