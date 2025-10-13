@@ -8,7 +8,3 @@ plugins:
 
 # Markdown-Engine
 markdown: kramdown
-
-kramdown:
-  auto_numbering: true
-  toc_levels: 1..6
