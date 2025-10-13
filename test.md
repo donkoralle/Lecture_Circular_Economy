@@ -12,3 +12,15 @@ Dein Markdown-Inhalt...
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oFWDEncIKHUSZPFN/0.jpg)](https://www.youtube.com/watch?v=oFWDEncIKHUSZPFN)
 
 [Link to additional resources or references](https://youtu.be/JG7Uq_JFDzE?si=oFWDEncIKHUSZPFN)
+
+---
+
+[![Final video of fixing issues in your code in VS Code]
+(https://img.youtube.com/vi/oFWDEncIKHUSZPFN/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=oFWDEncIKHUSZPFN)
+
+---
+
+# v2: per _includes
+
+{% include youtube.html id="oFWDEncIKHUSZPFN" %}  
