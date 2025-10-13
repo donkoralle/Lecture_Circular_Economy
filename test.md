@@ -16,6 +16,12 @@ This unit consits of two parts:
 
 {% include youtube.html id="JG7Uq_JFDzE" %}  
 
+---
+
+manuell per embed code:
+
+<iframe width="640" src="https://www.youtube.com/embed/JG7Uq_JFDzE?si=UuDmsfEdvAI2QDED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Versuch Bild:
 
 ![asdfadf](/assets/img/wait.gif)
