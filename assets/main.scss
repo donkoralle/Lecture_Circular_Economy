@@ -1,0 +1,21 @@
+---
+# empty front matter so Jekyll processes this as SCSS
+---
+
+/* Import the Primer theme’s default styles first */
+@import "{{ site.theme }}";
+
+/* --- Your custom overrides go below --- */
+
+.markdown-body img,
+.page-content img,
+.post-content img,
+article img,
+main img,
+img {
+  border-radius: 8px !important;  /* enforce rounded corners */
+  overflow: hidden;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
