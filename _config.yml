@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Meine Seite
+collections:
+  pages:
+    output: true
