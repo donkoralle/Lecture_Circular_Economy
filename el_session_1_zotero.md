@@ -4,6 +4,7 @@ author: Kami Hoferl
 date: 2025-10-12
 layout: page
 ---
+# Welchome to the Electronic Learning (EL) Session 1!
 
 ## Circular Strategies – Basics
 
