@@ -18,7 +18,7 @@ Welcome! In this session you will:
 
 In case you have not done it yet, please form **groups of two** for this session. You can find the groups list here (on Teams):
 
-[ICE Groups.xlsx](https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78861/Shared%20Documents/General/ICE_Groups.xlsx?d=wceb5e319044c4c189cf04e6d8339bf87&csf=1&web=1&e=nfrcZJ)
+🔗 [ICE Groups.xlsx](https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78861/Shared%20Documents/General/ICE_Groups.xlsx?d=wceb5e319044c4c189cf04e6d8339bf87&csf=1&web=1&e=nfrcZJ)
 
 👉 Please **remember your group number** for further reference during this session.
 
