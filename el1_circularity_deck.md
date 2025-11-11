@@ -87,9 +87,11 @@ To make the most out of your brainstorming session using the Circularity Deck, h
 
 After your brainstorming session, take some time to review the ideas generated. Discuss the feasibility and potential impact of each idea. Select the most promising ones to further develop and refine. Put the most promising ideas around the "Circular Strageties" area on the Miro board and the less promising ones outside this area.
 
+## Wrapping Up
+
 **👉 You will use this Miro board in our next session to present your ideas and discuss them with your classmates.** So make it pretty 😉 
 
-Congratulations for finishing this electronic learning session! 🎉
+Thanks for reading till the end and congratulations for finishing this electronic learning session! 🎉
 
 ![Clapping Captain](assets/img/clapping_picard.gif)
 
