@@ -83,7 +83,7 @@ To make the most out of your brainstorming session using the Circularity Deck, h
 
 ![Get mor infos on card](/assets/img/infos.jpg)
 
--   **Set a Time Limit:** Allocate a specific amount of time for your brainstorming session (e.g., 30-45 minutes). This will help keep the session focused and productive. You can also go for a second round if you feel the need for more ideas.
+-   **Set a Time Limit:** Allocate a specific amount of time for your brainstorming session (e.g. 30-45 minutes). This will help keep the session focused and productive. You can also go for a second round if you feel the need for more ideas.
 -   **Use Sticky Notes:** Use sticky notes on the Miro board to jot down your ideas. This will help you keep track of your thoughts and make it easier to organize them later. As a rule of thumb: **one idea per sticky note**.
 -   **Build on Each Other's Ideas:** Encourage collaboration within your group. Build on each other's ideas to create more comprehensive solutions.
 -   **Encourage Wild Ideas:** Don't be afraid to think outside the box. Sometimes, the most unconventional ideas can lead to innovative solutions.
@@ -98,4 +98,4 @@ After your brainstorming session, take some time to review the ideas generated. 
 
 Thanks for reading till the end and congratulations for finishing this electronic learning session! 🎉
 
-![Clapping Captain](assets/img/clapping_picard.gif)
+![Clapping Captain](assets/img/clapping_riker.gif)
