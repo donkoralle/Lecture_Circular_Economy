@@ -14,7 +14,7 @@ Welcome! In this session you will:
 -   apply the Circularity Deck to your design challenge, and
 -   **brainstorm ideas** to improve the circularity of your chosen design challenge.
 
-## Some Orga to Begin With
+## 1. Some Orga to Begin With
 
 In case you have not done it yet, please form **groups of two** for this session. You can find the groups list here (on Teams):
 
@@ -22,7 +22,7 @@ In case you have not done it yet, please form **groups of two** for this session
 
 👉 Please **remember your group number** for further reference during this session.
 
-## What is the circularity Deck?
+## 2. What is the circularity Deck?
 
 During his PhD **Jan Konietzko** developed a card deck to support the design of circular products and services. The deck contains 36 cards, each representing a different circular strategy. You can find more information about the deck here:
 
@@ -34,7 +34,7 @@ But let's listen to Jan himself explaining the Circularity Deck:
 
 🤔 So ... what's next?
 
-## Let's pick a Design Challenge!
+## 3. Let's pick a Design Challenge!
 
 In this session you will work on a design challenge using the Circularity Deck. The main goal is to further improve the circularity of a given product or service. To do so, you have to pick one of the following design challenges:
 
@@ -47,11 +47,11 @@ We want to improve the circularity of ...
 
 Have you picked your design challenge? Great! Let's move on ...
 
-## Check out your Design Challenge!
+## 4. Check out your Design Challenge!
 
 Before you start brainstorming ideas, take some time to **understand the current state of your chosen design challenge**. Familiarise yourself with the selected product or service, and consider whether any **R-strategies** have already been applied in its current design. Document your findings (e.g. as a note on the Miro board linked below), as this will help you identify areas for improvement and guide your brainstorming session.
 
-## Applying the Circularity Deck to your Design Challenge
+## 5. Applying the Circularity Deck to your Design Challenge
 
 Now it’s time to get creative! Using the Circularity Deck, brainstorm ideas to improve the circularity of your chosen design challenge. Since this is a self-guided learning session, we’ll use the online version of the Circularity Deck – a **pre-structured Miro board**. You can find your group’s (remember your group number?) Miro board here:
 
@@ -74,7 +74,7 @@ After opening your group-specific Miro board, I recommend watching the following
 
 {% include youtube.html id="cxy90TcMwoM" %}
 
-## Some Recommendations for your Brainstorming Session
+## 6. Some Recommendations for your Brainstorming Session
 
 To make the most out of your brainstorming session using the Circularity Deck, here are some recommendations:
 
@@ -88,11 +88,11 @@ To make the most out of your brainstorming session using the Circularity Deck, h
 -   **Build on Each Other's Ideas:** Encourage collaboration within your group. Build on each other's ideas to create more comprehensive solutions.
 -   **Encourage Wild Ideas:** Don't be afraid to think outside the box. Sometimes, the most unconventional ideas can lead to innovative solutions.
 
-## Reviewing and Selecting Ideas
+## 7. Reviewing and Selecting Ideas
 
 After your brainstorming session, take some time to review the ideas generated. Discuss the feasibility and potential impact of each idea. Select the most promising ones to further develop and refine. Put the most promising ideas around the "Circular Strageties" area on the Miro board and the less promising ones outside this area.
 
-## Wrapping Up
+## 8. Wrapping Up
 
 **👉 You will use this Miro board in our next session to present your ideas and discuss them with your classmates.** So make it pretty 😉
 
