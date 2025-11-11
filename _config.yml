@@ -1,0 +1,19 @@
+title: Scientific Method and Analysis
+description: Course Materials and Notes
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# Markdown-Engine
+markdown: kramdown
+
+# Add your custom CSS override
+include:
+  - assets
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      include: head-custom.html
