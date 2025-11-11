@@ -6,8 +6,13 @@ This repository contains materials used in the course taught at the [IMC Univers
 
 ## 🗂️ Contents
 
-- `slides/` – PowerPoint slides (.pptx) used in contact hours  
-- `syllabus.pdf` – Course description and learning outcomes  
+- _includes/ – Jekyll includes for building the Github Pages site
+- assets/ – CSS and image assets for the Github Pages site
+- slides/ – PowerPoint slides (.pptx) used in contact hours  
+- _config.yml – Configuration file for building the Github Pages site 
+- el1_circularity_deck.md – [Electronic learning session 1: Circularity Deck Design Challenge](https://donkoralle.github.io/Lecture_Circular_Economy/el1_circularity_deck) 
+- readme.md – This file
+- syllabus-xyz.pdf – Course description and learning outcomes  
 
 ---
 
