@@ -35,16 +35,16 @@ In this session you will work on a design challenge using the Circularity Deck. 
 
 We want to improve the circularity of ...
 
-1. ... a **washing machine** (something like [this](https://www.miele.at/product/12703560))
-2. ... a **folding bicycle** (something like [this](https://www.brompton.com/c-line))
-3. ... the Mensa (canteen) at our IMC campus Krems (see [here](https://www.mensen.at/standort/mensa-campus-krems/))
-4. ... of a roasting company & coffee shop (something like [this](https://kaffeecampuskrems.at/))
+1. ... a **washing machine** (something like [**this**](https://www.miele.at/product/12703560))
+2. ... a **folding bicycle** (something like [**this**](https://www.brompton.com/c-line))
+3. ... the Mensa (canteen) at our IMC campus Krems (see [**here**](https://www.mensen.at/standort/mensa-campus-krems/))
+4. ... of a roasting company & coffee shop (something like [**this**](https://kaffeecampuskrems.at/))
 
 Have you picked your design challenge? Great! Let's move on ...
 
-## Check our Design Challenge!
+## Check out your Design Challenge!
 
-Before you start brainstorming ideas, take time to understand the current state of your chosen design challenge. Familiarise yourself with the selected product or service, and then consider whether any R-strategies have already been applied in its current design. Document your findings, as this will help you identify areas for improvement and guide your brainstorming session.
+Before you start brainstorming ideas, take time to understand the current state of your chosen design challenge. Familiarise yourself with the selected product or service, and then consider whether any **R-strategies** have **already** been applied in its current design. Document your findings (e.g. as Note in the Miro-board referenced down bellow), as this will help you identify areas for improvement and guide your brainstorming session.
 
 ## Applying the Circularity Deck to your Design Challenge
 
@@ -65,11 +65,23 @@ Now it's time to get creative! You will use the Circularity Deck, brainstorm ide
 
 👉 Please note that you will need the **password provided in our Teams channel** to access these boards.
 
-After opening your group-specific Miro board, I recommend watching the following video tutorial by Jan Konietzko. In this video, he explains how to use this board-based version of the Circularity Deck effectively. You can find the video tutorial on top of the board, but for your convenience, I've also embedded it below:
+After opening your group-specific Miro board, I recommend watching the following **video tutorial** by Jan Konietzko. In this video, he explains how to use the board-based version of the Circularity Deck effectively. You can find the tutorial on top of the board, but for your convenience, I've also embedded it below:
  
 {% include youtube.html id="cxy90TcMwoM" %}  
 
+## Some Recommendations for your Brainstorming Session
 
+To make the most out of your brainstorming session using the Circularity Deck, here are some recommendations:
+
+* Put an **image of your chosen design challenge** (washing machine, folding bike, canteen, coffee shop) on the Miro board to visualise the challenge you are working on.
+* **Familiarise Yourself with the Cards:** Before diving into brainstorming, take a few minutes to go through the cards on the Miro board. Understand the different circular strategies represented by each card. This will help you think more creatively during the session. To get more information on a specific card, simply click on the "info" icon located at the top right of each card:
+
+![Get mor infos on card](/assets/img/infos.jpg)
+
+* **Use Sticky Notes:** Use sticky notes on the Miro board to jot down your ideas. This will help you keep track of your thoughts and make it easier to organize them later.
+* **Build on Each Other's Ideas:** Encourage collaboration within your group. Build on each other's ideas to create more comprehensive solutions.
+* **Set a Time Limit:** Allocate a specific amount of time for your brainstorming session (e.g., 30-45 minutes). This will help keep the session focused and productive. You can also go for a second round if you feel the need for more ideas.
+* **Encourage Wild Ideas:** Don't be afraid to think outside the box. Sometimes, the most unconventional ideas can lead to innovative solutions.
 
 
 Congratulations for finishing this electronic learning session! 🎉
