@@ -1,6 +1,6 @@
 ---
-title: Electronic Learning Session 1: Playing around with the Circularity Deck
-author: Kami Hoferl
+title: Electronic Learning Session 1: Circularity Deck Design Challenge
+author: Kami Höferl
 date: 2025-11-11
 layout: page
 ---
@@ -9,9 +9,9 @@ layout: page
 Welcome! In this session you will:
 
 
-## First of All
+## Some Orga to Begin With
 
-In case you have not done it yet, please form groups of two. You can find the groups list here:
+In case you have not done it yet, please form **groups of two** for this session. You can find the groups list here (on Teams):
 
 [ICE Groups.xlsx](https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78861/Shared%20Documents/General/ICE_Groups.xlsx?d=wceb5e319044c4c189cf04e6d8339bf87&csf=1&web=1&e=nfrcZJ)
 
@@ -78,11 +78,16 @@ To make the most out of your brainstorming session using the Circularity Deck, h
 
 ![Get mor infos on card](/assets/img/infos.jpg)
 
-* **Use Sticky Notes:** Use sticky notes on the Miro board to jot down your ideas. This will help you keep track of your thoughts and make it easier to organize them later.
-* **Build on Each Other's Ideas:** Encourage collaboration within your group. Build on each other's ideas to create more comprehensive solutions.
 * **Set a Time Limit:** Allocate a specific amount of time for your brainstorming session (e.g., 30-45 minutes). This will help keep the session focused and productive. You can also go for a second round if you feel the need for more ideas.
+* **Use Sticky Notes:** Use sticky notes on the Miro board to jot down your ideas. This will help you keep track of your thoughts and make it easier to organize them later. As a rule of thumb: **one idea per sticky note**.
+* **Build on Each Other's Ideas:** Encourage collaboration within your group. Build on each other's ideas to create more comprehensive solutions.
 * **Encourage Wild Ideas:** Don't be afraid to think outside the box. Sometimes, the most unconventional ideas can lead to innovative solutions.
 
+## Reviewing and Selecting Ideas
+
+After your brainstorming session, take some time to review the ideas generated. Discuss the feasibility and potential impact of each idea. Select the most promising ones to further develop and refine. Put the most promising ideas around the "Circular Strageties" area on the Miro board and the less promising ones outside this area.
+
+**👉 You will use this Miro board in our next session to present your ideas and discuss them with your classmates.** So make it pretty 😉 
 
 Congratulations for finishing this electronic learning session! 🎉
 
