@@ -47,7 +47,7 @@ We want to improve the circularity of ...
 
 Have you picked your design challenge? Great!
 
-![Inspired me](/assets/img/inspired%20me.gif)
+![Inspired me](/assets/img/inspired_me.gif)
 
 Let's move on ...
 
