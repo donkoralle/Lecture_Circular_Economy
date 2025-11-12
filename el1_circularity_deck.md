@@ -20,7 +20,7 @@ In case you have not done it yet, please form **groups of two** for this session
 
 🔗 [ICE Groups.xlsx](https://imcfhkrems.sharepoint.com/:x:/r/teams/LV_78861/Shared%20Documents/General/ICE_Groups.xlsx?d=wceb5e319044c4c189cf04e6d8339bf87&csf=1&web=1&e=nfrcZJ)
 
-👉 Please **remember your group number** for further reference during this session.
+👉 Please remember your **group number** — you will need it throughout this session.
 
 ## 2. What is the circularity Deck?
 
@@ -45,7 +45,11 @@ We want to improve the circularity of ...
 3.  ... the Mensa (canteen) at our IMC campus Krems (see [**here**](https://www.mensen.at/standort/mensa-campus-krems/))
 4.  ... of a roasting company & coffee shop (something like [**this**](https://kaffeecampuskrems.at/))
 
-Have you picked your design challenge? Great! Let's move on ...
+Have you picked your design challenge? Great!
+
+![Inspired me](/assets/img/inspired%20me.gif)
+
+Let's move on ...
 
 ## 4. Check out your Design Challenge!
 
@@ -90,7 +94,7 @@ To make the most out of your brainstorming session using the Circularity Deck, h
 
 ## 7. Reviewing and Selecting Ideas
 
-After your brainstorming session, take some time to review the ideas generated. Discuss the feasibility and potential impact of each idea. Select the most promising ones to further develop and refine. Put the most promising ideas around the "Circular Strageties" area on the Miro board and the less promising ones outside this area.
+After your brainstorming session, take some time to **review the ideas** generated. Discuss the **feasibility and potential impact** of each idea. Select the most promising ones to further develop and refine. Put the most promising ideas around the "Circular Strategies" area on the Miro board and the less promising ones outside this area.
 
 ## 8. Wrapping Up
 
